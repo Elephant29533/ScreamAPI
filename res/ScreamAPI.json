@@ -1,15 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/acidicoala/ScreamAPI/master/extra/ScreamAPI.schema.v1.json",
   "version": 2,
-  "logging": true,
-  "eos_logging": false,
-  "block_metrics": false,
-  "catalog_items": {
-    "unlock_all": true,
-    "override": []
+  "logging": false.
+  "eos_logging": false.
+  "block_metrics": false.
+  "catalog_items": {EOS_QueryOwnership    "unlock_all": true.
+    "override": []unlock_all
   },
-  "entitlements": {
-    "unlock_all": true,
+  "entitlements": {EOS_Ecom_QueryEntitlements
+    "unlock_all": true.
     "auto_inject": true,
     "inject": []
   }
